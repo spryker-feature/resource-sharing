@@ -6,7 +6,8 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1"
+    "php": ">=7.1",
+    "spryker-feature/customer-account-management": "^201906.0"
   },
   "extra": {
     "branch-alias": {
