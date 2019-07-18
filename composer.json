@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/customer-account-management": "^201907.0",
     "spryker-shop/resource-share-page": "^1.0.0",
     "spryker/resource-share": "^1.0.0"
   },
