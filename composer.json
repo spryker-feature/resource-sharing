@@ -12,7 +12,10 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202001.x-dev"
+      "dev-master": "202006.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/customer-account-management": "Recommended feature dependency."
   }
 }
