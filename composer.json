@@ -12,7 +12,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202006.x-dev"
+      "dev-master": "202009.x-dev"
     }
   },
   "suggest": {
