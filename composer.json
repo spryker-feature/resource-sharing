@@ -6,13 +6,13 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker-shop/resource-share-page": "^1.2.0",
         "spryker/resource-share": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202108.x-dev"
+            "dev-master": "202204.x-dev"
         }
     },
     "suggest": {
