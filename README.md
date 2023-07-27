@@ -2,6 +2,8 @@
 
 Resource Sharing is a generic feature, that allows you to create Unique URL for any entity in the Spyker Commerce OS. For each entity, you should use additional connector-module. For example, to share Cart through URL, Resource Sharing feature should be combined with Persistent Cart Sharing.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/cart-and-checkout/202307.0/base-shop/resource-sharing-feature-overview.html)
+
 ## Installation
 
 ```
