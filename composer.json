@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/resource-share-page": "^1.2.0",
         "spryker/resource-share": "^1.0.0"
     },
